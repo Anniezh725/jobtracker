@@ -15,3 +15,18 @@ JobTrack/
     ├── style.css
     └── script.js
 
+
+
+React
+can try first, or implement in future
+JobTrack/
+│
+├── backend/
+│   ├── app.py
+│   ├── models.py
+│   ├── requirements.txt
+│   └── instance/
+│       └── jobs.db
+│
+└── frontend/
+    └── (React application - later)
